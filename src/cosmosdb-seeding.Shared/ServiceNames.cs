@@ -15,4 +15,9 @@ public static class ServiceNames
     /// The name of the web frontend service.
     /// </summary>
     public const string Web = "Web";
+
+    /// <summary>
+    /// The name of the Cosmos DB service.
+    /// </summary>
+    public const string CosmosDb = "CosmosDb";
 }
